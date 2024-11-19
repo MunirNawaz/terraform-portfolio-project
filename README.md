@@ -20,6 +20,7 @@ James Smith, a freelance web designer, wants to showcase his work and attract po
 ## Project Outcome
 
 By the end of this project, we will have:
+
 - Deployed a Next.js website on AWS.
 - Automated the creation of AWS resources using Terraform.
 - Configured AWS CloudFront for global content delivery with low latency.
@@ -28,6 +29,7 @@ By the end of this project, we will have:
 ## Architecture
 
 The project uses the following AWS services:
+
 - **S3**: For static hosting of the Next.js website.
 - **CloudFront**: For content delivery to ensure fast loading times globally.
 
@@ -37,12 +39,6 @@ The project uses the following AWS services:
 
 ## Steps to Upload Project on GitHub
 
-### 1. Create a GitHub Repository
+### Portfolio URL.
 
-1. Go to GitHub and create a new repository named `terraform-portfolio-project`.
-2. Initialize the repository with a README file.
-
-```sh
-git init
-git remote add origin https://github.com/<your-username>/terraform-portfolio-project.git
-
+https://dpteq3k22r947.cloudfront.net/
