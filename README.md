@@ -1,5 +1,3 @@
-# terraform-portfolio-project
-
 # Terraform Portfolio Project
 
 ## Overview
