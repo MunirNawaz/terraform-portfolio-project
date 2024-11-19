@@ -28,3 +28,11 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# large files ignore
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.log
+.terraform.lock.hcl
